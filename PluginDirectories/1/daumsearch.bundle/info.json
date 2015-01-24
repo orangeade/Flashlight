@@ -1,0 +1,7 @@
+{
+	"name": "daumsearch",
+	"displayName": "Daum Search",
+	"examples": ["daum Apple stock", "search the web for OSX Yosemite", "g Flashlight"],
+	"examples_de": ["daum Apple Aktie", "Suche im Internet nach OSX Yosemite", "g Flashlight"],
+	"categories": ["Search", "Featured"]
+}
